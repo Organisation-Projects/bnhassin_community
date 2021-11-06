@@ -1,1 +1,3 @@
-npm team ls <org>:developers
+npm team ls <organisation-projects>:developers
+npm access
+mkdir /path/to/package/directory
